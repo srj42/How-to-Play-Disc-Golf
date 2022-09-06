@@ -34,6 +34,7 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 * Starting with your back foot, take three steps towards the basket.
 * Take one more step towards the basket while simultaneously reaching your throwing across your chest and away from the basket.
 * Quickly pull your throwing arm across your chest towards the basket and let go of the disc.
+
 ![Disc Golf Drive](https://github.com/srj42/How-to-Play-Disc-Golf/blob/main/driving.gif)
 
 ### 3. Approaching the Basket
