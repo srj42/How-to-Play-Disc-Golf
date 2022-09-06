@@ -14,6 +14,7 @@ When walking anywhere on a disc golf course, always keep your head on a swivel a
 Disc golf discs, are not meant to be used interchangeably. Instead, each disc is designed to behave a specific way and can generally be placed into one of four different categories.
 ### Putters
 * Putters are best for floating in the air and catching the chains. 
+![putter](putter.jpg)
 ### Midrange
 * Midrange discs sort of fall in between and offer more distance than putters, while utilizing more control than drivers.
 ### Fairway Drivers
