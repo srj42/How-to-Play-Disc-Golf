@@ -10,4 +10,5 @@ Complete the course in the fewest possible throws.
 When walking anywhere on a disc golf course, always keep your head on a swivel and watch out for flying discs. As a courtesy towards others, if you throw or see a disc being thrown in someone's general direction, make sure to yell "fore" to warn them that a disc is flying towards them and prevent injury.
 
 ## Steps
-### 1. 
+### 1. Selecting a disc for the Tee Shot
+      * Take a look at the sign next to the teepad to find the par and distance to the basket.
