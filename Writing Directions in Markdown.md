@@ -37,6 +37,12 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 
 ![Disc Golf Drive](https://github.com/srj42/How-to-Play-Disc-Golf/blob/main/driving.gif)
 
-### 3. Approaching the Basket
+### 3. Watching the Disc
+* After you throw, it is important to know where the disc lands, as that is where you will take your next shot.
+* Keep an eye on the disc after you throw, especially if there is tall grass, thick brush, 
+### 4. Finding the Disc
+
+### . Approaching the Basket
 * When approaching the basket you should be about 100 - 300 feet away from the basket. 
-* 
+* A midrange disc would be most appropriate for this type of shot.
+
