@@ -72,6 +72,7 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 * Hold the disc flat and bring it in towards your chest by bending your elbow and wrist.
 * Quickly extend your elbow, flick your wrist, and release the disk to spin it towards the basket.
 * Repeat step 6 until the disc hits the chains and lands in the basket.
+
 ![Putting in Disc Golf](https://github.com/srj42/How-to-Play-Disc-Golf/blob/main/putting.gif)
 
 ### 7. After Making a Put
