@@ -21,8 +21,20 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 ### Distance Drivers
 * Distance drivers are meant for longer distances and for moving from one side to the other in flight.
 
-
 ## Steps
 ### 1. Selecting a disc for the Tee Shot
 * Take a look at the sign next to the teepad to find the par and distance to the basket.
-* If the baseket is further than 300 feet, then selecting a fairway driver or distance
+* If the baseket is further than 300 feet, then choose a fairway driver or distance driver.
+* If the basket is less than 300 feet away, consider selecting a midrange disc.
+
+### 2. Throwing the Tee Shot
+* The Tee Shot is taken from the teepad, which is a large rectangular slab of concrete, brick, or turf, that you will throw from at the start of the hole.
+* Take your disc and walk to the back of the teepad.
+* Turn 90 degrees so that your throwing arm is facing your target.
+* Starting with your back foot, take three steps towards the basket.
+* Take one more step towards the basket while simultaneously reaching your throwing across your chest and away from the basket.
+* Quickly pull your throwing arm across your chest towards the basket and let go of the disc.
+![Disc Golf Drive](
+
+### 3. Approaching the Basket
+* When 
