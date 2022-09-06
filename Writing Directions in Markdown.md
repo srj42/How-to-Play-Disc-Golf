@@ -13,14 +13,17 @@ When walking anywhere on a disc golf course, always keep your head on a swivel a
 ## Types of Discs
 Disc golf discs, are not meant to be used interchangeably. Instead, each disc is designed to behave a specific way and can generally be placed into one of four different categories.
 ### Putters
-* Putters are best for floating in the air and catching the chains. 
+* Putters are best for floating in the air and catching the chains.
+![Putter](putter.jpg)
 ### Midrange
 * Midrange discs sort of fall in between and offer more distance than putters, while utilizing more control than drivers.
-![midrange](midrange.jpg)
+![Midrange](midrange.jpg)
 ### Fairway Drivers
 * Fairway drivers used for straighter shots that midranges can't get to. Discs designed for control, not max distance.
+![Fairway Driver](fairway driver.jpg)
 ### Distance Drivers
 * Distance drivers are meant for longer distances and for moving from one side to the other in flight.
+![Distance Driver](distance driver.jpg)
 
 ## Steps
 ### 1. Selecting a disc for the Tee Shot
