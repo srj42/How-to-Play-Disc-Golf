@@ -60,5 +60,6 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 * Putting in disc golf is usually done in close proximity to the basket.
 * This kind of shot is best done with a putter.
 * Use your throwing hand to grab your disc so that your thumb is on the top and your other fingers are touching the inside rim of the disc.
-* Stand facing the basket.
+* Stand facing the basket with the foot on your throwing side in front of the other.
 * 
+![Putting in Disc Golf](https://github.com/srj42/How-to-Play-Disc-Golf/blob/main/putting.gif)
