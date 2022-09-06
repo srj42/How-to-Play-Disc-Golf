@@ -1,6 +1,6 @@
-## How To Play Disc Golf ##
+# How To Play Disc Golf
 
-#
+## What is Disc Golf
 
-# Objective
+## Objective
 Throw a disc into into 
