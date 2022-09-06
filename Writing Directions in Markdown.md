@@ -23,7 +23,7 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 ![Fairway Driver](fairway driver.jpg)
 ### Distance Drivers
 * Distance drivers are meant for longer distances and for moving from one side to the other in flight.
-![Distance Driver](distance driver.jpg)
+![Distance Driver]([distance driver.jpg](https://github.com/srj42/How-to-Play-Disc-Golf/blob/main/distance%20driver.jpg))
 
 ## Steps
 ### 1. Selecting a disc for the Tee Shot
