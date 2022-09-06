@@ -2,6 +2,7 @@
 
 ## What is Disc Golf
 Disc golf is a sport in which players throw concave plastic discs into a series of metal baskets. It is usually played on an outdoor course with 18 unique holes using primarily the same rules as golf. To start playing a round of disc golf, you will only need a few discs and a course to play on.
+![](
 ![](https://github.com/How_to_Play_Disc_Golf/Disc_Golf_Put.gif)
 
 ## Objective
