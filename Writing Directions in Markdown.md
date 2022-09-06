@@ -76,3 +76,4 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 * Walk over to the basket and grab your putter.
 * Walk to the next teepad.
 * Repeat steps 1-7 until you finish the course.
+
