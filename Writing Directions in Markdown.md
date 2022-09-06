@@ -11,4 +11,4 @@ When walking anywhere on a disc golf course, always keep your head on a swivel a
 
 ## Steps
 ### 1. Selecting a disc for the Tee Shot
-      * Take a look at the sign next to the teepad to find the par and distance to the basket.
+* Take a look at the sign next to the teepad to find the par and distance to the basket.
