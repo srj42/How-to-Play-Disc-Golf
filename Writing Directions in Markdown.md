@@ -30,6 +30,7 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 ### 2. Throwing the Tee Shot
 * The Tee Shot is taken from the teepad, which is a large rectangular slab of concrete, brick, or turf, that you will throw from at the start of the hole.
 * Take your disc and walk to the back of the teepad.
+* Use your throwing hand to grab your disc so that your thumb is on the top and your other fingers are touching the inside rim of the disc.
 * Turn 90 degrees so that your throwing arm is facing your target.
 * Starting with your back foot, take three steps towards the basket.
 * Take one more step towards the basket while simultaneously reaching your throwing across your chest and away from the basket.
@@ -39,10 +40,21 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 
 ### 3. Watching the Disc
 * After you throw, it is important to know where the disc lands, as that is where you will take your next shot.
-* Keep an eye on the disc after you throw, especially if there is tall grass, thick brush, 
-### 4. Finding the Disc
+* Keep an eye on the disc after you throw, especially if there is tall grass, thick brush, or water around the course.
 
-### . Approaching the Basket
+### 4. Finding the Disc
+* After the disc lands, walk towards its location.
+* If you find the disc, move on to step 5.
+* If you can not find your disc, add one penalty throw to your score and take your next shot from the spot where you lost the disc.
+
+### 5. Approaching the Basket
 * When approaching the basket you should be about 100 - 300 feet away from the basket. 
 * A midrange disc would be most appropriate for this type of shot.
+* Use your throwing hand to grab your disc so that your thumb is on the top and your other fingers are touching the inside rim of the disc.
+* Stand with your feet shoulder width apart and turn 90 degrees so your throwing arm is facing the basket.
+* Reach your throwing arm across your chest away from the basket.
+* Quickly pull your throwing arm across your chest towards the basket and let go of the disc.
+* Repeat step 5 until you are within 50 feet of the basket.
 
+### 6. Puuting
+* Putting in disc gold is usually done in close proximity to the basket.
