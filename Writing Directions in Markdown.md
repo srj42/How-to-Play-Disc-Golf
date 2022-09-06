@@ -61,5 +61,12 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 * This kind of shot is best done with a putter.
 * Use your throwing hand to grab your disc so that your thumb is on the top and your other fingers are touching the inside rim of the disc.
 * Stand facing the basket with the foot on your throwing side in front of the other.
-* 
+* Hold the disc flat and bring it in towards your chest by bending your elbow and wrist.
+* Quickly extend your elbow, flick your wrist, and release the disk to spin it towards the basket.
+* Repeat step 6 until the disc hits the chains and lands in the basket.
 ![Putting in Disc Golf](https://github.com/srj42/How-to-Play-Disc-Golf/blob/main/putting.gif)
+
+### 7. After Making a Put
+* Walk over to the basket and grab your putter.
+* Walk to the next teepad.
+* Repeat steps 1-7 until you finish the course.
