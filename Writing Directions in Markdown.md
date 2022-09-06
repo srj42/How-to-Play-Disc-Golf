@@ -20,9 +20,11 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 ![Midrange](midrange.jpg)
 ### Fairway Drivers
 * Fairway drivers used for straighter shots that midranges can't get to. Discs designed for control, not max distance.
+
 ![Fairway Driver](fairway driver.jpg)
 ### Distance Drivers
 * Distance drivers are meant for longer distances and for moving from one side to the other in flight.
+
 ![Distance Driver](distance.jpg)
 
 ## Steps
