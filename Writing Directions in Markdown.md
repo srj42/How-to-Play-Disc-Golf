@@ -57,4 +57,8 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 * Repeat step 5 until you are within 50 feet of the basket.
 
 ### 6. Puuting
-* Putting in disc gold is usually done in close proximity to the basket.
+* Putting in disc golf is usually done in close proximity to the basket.
+* This kind of shot is best done with a putter.
+* Use your throwing hand to grab your disc so that your thumb is on the top and your other fingers are touching the inside rim of the disc.
+* Stand facing the basket.
+* 
