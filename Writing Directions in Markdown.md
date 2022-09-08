@@ -64,7 +64,7 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 * Quickly pull your throwing arm across your chest towards the basket and let go of the disc.
 * Repeat step 5 until you are within 50 feet of the basket.
 
-### 6. Puuting
+### 6. Putting
 * Putting in disc golf is usually done in close proximity to the basket.
 * This kind of shot is best done with a putter.
 * Use your throwing hand to grab your disc so that your thumb is on the top and your other fingers are touching the inside rim of the disc.
@@ -75,7 +75,7 @@ Disc golf discs, are not meant to be used interchangeably. Instead, each disc is
 
 ![Putting in Disc Golf](https://github.com/srj42/How-to-Play-Disc-Golf/blob/main/putting.gif)
 
-### 7. After Making a Put
+### 7. After Making a Putt
 * Walk over to the basket and grab your putter.
 * Walk to the next teepad.
 * Repeat steps 1-7 until you finish the course.
